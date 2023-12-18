@@ -1,15 +1,15 @@
 {
   "schemaVersion": 1,
   "id": "snowballsfreezemobs",
-  "version": "3.2",
+  "version": "3.3",
 
   "name": "Snowballs Freeze Mobs",
   "description": "Hitting mobs with a snowball will result in them being frozen for a configurable amount of time.",
   "authors": [ "Rick South" ],
   "contact": {
-    "homepage": "https://curseforge.com/minecraft/mc-mods/snowballs-freeze-mobs",
-    "sources": "https://github.com/ricksouth/serilum-mc-mod-sources/tree/main/sources/Snowballs%20Freeze%20Mobs",
-    "issues": "https://github.com/ricksouth/serilum-mc-mods/labels/Mod:%20Snowballs%20Freeze%20Mobs"
+    "homepage": "https://serilum.com/mod/snowballs-freeze-mobs",
+    "sources": "https://github.com/Serilum/Snowballs-Freeze-Mobs",
+    "issues": "https://github.com/Serilum/.issue-tracker/labels/Mod:%20Snowballs%20Freeze%20Mobs"
   },
 
   "license": "All Right Reserved",
@@ -23,7 +23,7 @@
     "fabric": "*",
     "minecraft": ">=1.20",
     "java": ">=17",
-    "collective": ">=7.3"
+    "collective": ">=7.21"
   },
 
   "custom": {
