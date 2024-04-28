@@ -6,7 +6,7 @@ logoFile="icon.png"
 
 [[mods]]
 modId="snowballsfreezemobs"
-version="3.3"
+version="3.4"
 displayName="Snowballs Freeze Mobs"
 displayURL="https://serilum.com/mod/snowballs-freeze-mobs"
 authors="Rick South"
@@ -22,7 +22,7 @@ If you would like to contribute too, check out https://serilum.com/donate. Appre
 [[dependencies.snowballsfreezemobs]]
     modId="collective"
     mandatory=true
-    versionRange="[7.52,)"
+    versionRange="[7.54,)"
     ordering="NONE"
     side="BOTH"
 
