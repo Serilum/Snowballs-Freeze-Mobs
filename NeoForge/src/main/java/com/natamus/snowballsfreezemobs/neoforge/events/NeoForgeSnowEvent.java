@@ -19,7 +19,7 @@ public class NeoForgeSnowEvent {
 	}
 	
 	@SubscribeEvent
-	public static void onLivingUpdate(EntityTickEvent e) {
+	public static void onLivingUpdate(EntityTickEvent.Pre e) {
 		Entity entity = e.getEntity();
 		if (!(entity instanceof LivingEntity)) {
 			return;
