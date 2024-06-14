@@ -1,0 +1,37 @@
+modLoader="javafml"
+loaderVersion="*"
+license="All rights reserved"
+issueTrackerURL="https://github.com/Serilum/.issue-tracker/labels/Mod:%20Snowballs%20Freeze%20Mobs"
+logoFile="icon.png"
+
+[[mods]]
+modId="snowballsfreezemobs"
+version="3.5"
+displayName="Snowballs Freeze Mobs"
+displayURL="https://serilum.com/mod/snowballs-freeze-mobs"
+authors="Rick South"
+description='''Hitting mobs with a snowball will result in them being frozen for a configurable amount of time.
+'''
+credits='''Thank you very much to my Membership sponsors for supporting the development of this mod:  
+
+Alister, Andrean Olgo, aternosorg, BirdieMiner, Cherriesaurus, Jeremy Langford, Michael W. S., Rare Students, Shana Gitnick, Tyler Behl   
+
+If you would like to contribute too, check out https://serilum.com/donate. Appreciate it! <3   
+'''
+
+[[dependencies.snowballsfreezemobs]]
+    modId="collective"
+    type="required"
+    versionRange="[7.61,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.snowballsfreezemobs]]
+    modId="minecraft"
+    type="required"
+    versionRange="[1.21]"
+    ordering="NONE"
+    side="BOTH"
+
+[[mixins]]
+    config = "snowballsfreezemobs.mixins.json"
