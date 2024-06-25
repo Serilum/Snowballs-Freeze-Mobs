@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "snowballsfreezemobs",
-  "version": "3.5",
+  "version": "3.6",
 
   "name": "Snowballs Freeze Mobs",
   "description": "Hitting mobs with a snowball will result in them being frozen for a configurable amount of time.",
@@ -23,7 +23,7 @@
     "fabric": "*",
     "minecraft": ">=1.21",
     "java": ">=21",
-    "collective": ">=7.61"
+    "collective": ">=7.64"
   },
 
   "custom": {
@@ -46,10 +46,9 @@
 	  " aternosorg",
 	  " BirdieMiner",
 	  " Cherriesaurus",
-	  " Jeremy Langford",
 	  " Michael W. S.",
-	  " Rare Students",
 	  " Shana Gitnick",
+	  " Sukhmai",
 	  " Tyler Behl"
   ]
 }
