@@ -4,11 +4,9 @@ import com.natamus.snowballsfreezemobs.events.SnowEvent;
 import net.minecraft.world.entity.Entity;
 import net.minecraft.world.entity.LivingEntity;
 import net.neoforged.bus.api.SubscribeEvent;
-import net.neoforged.fml.common.EventBusSubscriber;
 import net.neoforged.neoforge.event.entity.living.LivingIncomingDamageEvent;
 import net.neoforged.neoforge.event.tick.EntityTickEvent;
 
-@EventBusSubscriber
 public class NeoForgeSnowEvent {
 	@SubscribeEvent
 	public static void onEntityHurt(LivingIncomingDamageEvent e) {
