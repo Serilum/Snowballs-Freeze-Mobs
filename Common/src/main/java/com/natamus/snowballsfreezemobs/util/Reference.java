@@ -4,5 +4,5 @@ public class Reference {
 	public static final String MOD_ID = "snowballsfreezemobs";
 	public static final String NAME = "Snowballs Freeze Mobs";
 	public static final String VERSION = "4.0";
-	public static final String ACCEPTED_VERSIONS = "[26.1.2]";
+	public static final String ACCEPTED_VERSIONS = "[26.2.0]";
 }
