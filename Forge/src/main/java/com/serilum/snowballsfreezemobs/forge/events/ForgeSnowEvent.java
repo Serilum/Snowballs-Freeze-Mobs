@@ -1,6 +1,6 @@
-package com.natamus.snowballsfreezemobs.forge.events;
+package com.serilum.snowballsfreezemobs.forge.events;
 
-import com.natamus.snowballsfreezemobs.events.SnowEvent;
+import com.serilum.snowballsfreezemobs.events.SnowEvent;
 import net.minecraft.world.entity.Entity;
 import net.minecraftforge.event.entity.living.LivingEvent;
 import net.minecraftforge.event.entity.living.LivingHurtEvent;

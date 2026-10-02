@@ -1,10 +1,10 @@
-package com.natamus.snowballsfreezemobs;
+package com.serilum.snowballsfreezemobs;
 
 import com.natamus.collective.check.RegisterMod;
 import com.natamus.collective.check.ShouldLoadCheck;
-import com.natamus.snowballsfreezemobs.neoforge.config.IntegrateNeoForgeConfig;
-import com.natamus.snowballsfreezemobs.neoforge.events.NeoForgeSnowEvent;
-import com.natamus.snowballsfreezemobs.util.Reference;
+import com.serilum.snowballsfreezemobs.neoforge.config.IntegrateNeoForgeConfig;
+import com.serilum.snowballsfreezemobs.neoforge.events.NeoForgeSnowEvent;
+import com.serilum.snowballsfreezemobs.util.Reference;
 import net.neoforged.neoforge.common.NeoForge;
 import net.neoforged.bus.api.IEventBus;
 import net.neoforged.fml.ModLoadingContext;
