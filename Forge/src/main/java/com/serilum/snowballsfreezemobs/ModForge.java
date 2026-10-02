@@ -1,10 +1,10 @@
-package com.natamus.snowballsfreezemobs;
+package com.serilum.snowballsfreezemobs;
 
 import com.natamus.collective.check.RegisterMod;
 import com.natamus.collective.check.ShouldLoadCheck;
-import com.natamus.snowballsfreezemobs.forge.config.IntegrateForgeConfig;
-import com.natamus.snowballsfreezemobs.forge.events.ForgeSnowEvent;
-import com.natamus.snowballsfreezemobs.util.Reference;
+import com.serilum.snowballsfreezemobs.forge.config.IntegrateForgeConfig;
+import com.serilum.snowballsfreezemobs.forge.events.ForgeSnowEvent;
+import com.serilum.snowballsfreezemobs.util.Reference;
 import net.minecraftforge.common.MinecraftForge;
 import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.fml.ModLoadingContext;
@@ -32,7 +32,7 @@ public class ModForge {
 	}
 
 	private void loadComplete(final FMLLoadCompleteEvent event) {
-    	MinecraftForge.EVENT_BUS.register(ForgeSnowEvent.class);
+		MinecraftForge.EVENT_BUS.register(ForgeSnowEvent.class);
 	}
 
 	private static void setGlobalConstants() {

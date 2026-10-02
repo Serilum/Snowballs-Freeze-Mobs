@@ -1,6 +1,6 @@
-package com.natamus.snowballsfreezemobs;
+package com.serilum.snowballsfreezemobs;
 
-import com.natamus.snowballsfreezemobs.config.ConfigHandler;
+import com.serilum.snowballsfreezemobs.config.ConfigHandler;
 
 public class ModCommon {
 
