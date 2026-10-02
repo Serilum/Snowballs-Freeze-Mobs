@@ -1,10 +1,10 @@
-package com.natamus.snowballsfreezemobs;
+package com.serilum.snowballsfreezemobs;
 
 import com.natamus.collective.check.RegisterMod;
 import com.natamus.collective.check.ShouldLoadCheck;
 import com.natamus.collective.fabric.callbacks.CollectiveEntityEvents;
-import com.natamus.snowballsfreezemobs.events.SnowEvent;
-import com.natamus.snowballsfreezemobs.util.Reference;
+import com.serilum.snowballsfreezemobs.events.SnowEvent;
+import com.serilum.snowballsfreezemobs.util.Reference;
 import net.fabricmc.api.ModInitializer;
 import net.minecraft.world.damagesource.DamageSource;
 import net.minecraft.world.entity.Entity;

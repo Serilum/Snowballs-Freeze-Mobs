@@ -1,7 +1,7 @@
-package com.natamus.snowballsfreezemobs.forge.config;
+package com.serilum.snowballsfreezemobs.forge.config;
 
 import com.natamus.collective.config.DuskConfig;
-import com.natamus.snowballsfreezemobs.util.Reference;
+import com.serilum.snowballsfreezemobs.util.Reference;
 import net.minecraftforge.client.ConfigScreenHandler;
 import net.minecraftforge.fml.ModLoadingContext;
 

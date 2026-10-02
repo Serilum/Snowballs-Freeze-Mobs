@@ -1,6 +1,6 @@
-package com.natamus.snowballsfreezemobs.neoforge.events;
+package com.serilum.snowballsfreezemobs.neoforge.events;
 
-import com.natamus.snowballsfreezemobs.events.SnowEvent;
+import com.serilum.snowballsfreezemobs.events.SnowEvent;
 import net.minecraft.world.entity.Entity;
 import net.minecraft.world.entity.LivingEntity;
 import net.neoforged.bus.api.SubscribeEvent;

@@ -1,7 +1,7 @@
-package com.natamus.snowballsfreezemobs.fabric.config;
+package com.serilum.snowballsfreezemobs.fabric.config;
 
 import com.natamus.collective.config.DuskConfig;
-import com.natamus.snowballsfreezemobs.util.Reference;
+import com.serilum.snowballsfreezemobs.util.Reference;
 import com.terraformersmc.modmenu.api.ConfigScreenFactory;
 import com.terraformersmc.modmenu.api.ModMenuApi;
 
