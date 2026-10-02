@@ -1,7 +1,7 @@
-package com.natamus.snowballsfreezemobs.events;
+package com.serilum.snowballsfreezemobs.events;
 
 import com.natamus.collective.functions.EntityFunctions;
-import com.natamus.snowballsfreezemobs.config.ConfigHandler;
+import com.serilum.snowballsfreezemobs.config.ConfigHandler;
 import net.minecraft.world.damagesource.DamageSource;
 import net.minecraft.world.effect.MobEffects;
 import net.minecraft.world.entity.Entity;
